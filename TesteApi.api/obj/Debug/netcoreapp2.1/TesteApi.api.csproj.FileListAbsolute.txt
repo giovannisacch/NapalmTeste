@@ -1,0 +1,14 @@
+C:\Users\Syrema\source\repos\TesteApi\TesteApi.api\bin\Debug\netcoreapp2.1\TesteApi.api.deps.json
+C:\Users\Syrema\source\repos\TesteApi\TesteApi.api\bin\Debug\netcoreapp2.1\TesteApi.api.runtimeconfig.json
+C:\Users\Syrema\source\repos\TesteApi\TesteApi.api\bin\Debug\netcoreapp2.1\TesteApi.api.runtimeconfig.dev.json
+C:\Users\Syrema\source\repos\TesteApi\TesteApi.api\bin\Debug\netcoreapp2.1\TesteApi.api.dll
+C:\Users\Syrema\source\repos\TesteApi\TesteApi.api\bin\Debug\netcoreapp2.1\TesteApi.api.pdb
+C:\Users\Syrema\source\repos\TesteApi\TesteApi.api\obj\Debug\netcoreapp2.1\TesteApi.api.csprojAssemblyReference.cache
+C:\Users\Syrema\source\repos\TesteApi\TesteApi.api\obj\Debug\netcoreapp2.1\TesteApi.api.csproj.CoreCompileInputs.cache
+C:\Users\Syrema\source\repos\TesteApi\TesteApi.api\obj\Debug\netcoreapp2.1\TesteApi.api.RazorAssemblyInfo.cache
+C:\Users\Syrema\source\repos\TesteApi\TesteApi.api\obj\Debug\netcoreapp2.1\TesteApi.api.RazorAssemblyInfo.cs
+C:\Users\Syrema\source\repos\TesteApi\TesteApi.api\obj\Debug\netcoreapp2.1\TesteApi.api.AssemblyInfoInputs.cache
+C:\Users\Syrema\source\repos\TesteApi\TesteApi.api\obj\Debug\netcoreapp2.1\TesteApi.api.AssemblyInfo.cs
+C:\Users\Syrema\source\repos\TesteApi\TesteApi.api\obj\Debug\netcoreapp2.1\TesteApi.api.RazorTargetAssemblyInfo.cache
+C:\Users\Syrema\source\repos\TesteApi\TesteApi.api\obj\Debug\netcoreapp2.1\TesteApi.api.dll
+C:\Users\Syrema\source\repos\TesteApi\TesteApi.api\obj\Debug\netcoreapp2.1\TesteApi.api.pdb
